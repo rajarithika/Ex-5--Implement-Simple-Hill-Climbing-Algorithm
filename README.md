@@ -1,6 +1,6 @@
 <h1>ExpNo 5 : Implement Simple Hill Climbing Algorithm</h1> 
-<h3>Name:             </h3>
-<h3>Register Number:             </h3>
+<h3>Name:Raja Rithika M           </h3>
+<h3>Register Number:2305001029           </h3>
 <H3>Aim:</H3>
 <p>Implement Simple Hill Climbing Algorithm and Generate a String by Mutating a Single Character at each iteration </p>
 <h2> Theory: </h2>
@@ -78,7 +78,7 @@ SimpleHillClimbing()
 ```
 
 <hr>
-<h2>Sample Input and Output</h2>
+
 <h2>Sample String:</h2> Artificial Intelligence
 <h2>Output:</h2>
 Score: 643  Solution :  8RzF:oG ]%;CPORRMe!zGvk<br>
@@ -98,3 +98,16 @@ Score: 1  Solution :  Artificial Intelligencf<br>
 Score: 1  Solution :  Artificial Intelligencf<br>
 Score: 1  Solution :  Artificial Intelligencf<br>
 Score: 0  Solution :  Artificial Intelligence<br>
+
+<h2>Input</h2>
+Artificial Intelligence
+
+<h3>Output</h3>
+<img width="1284" height="638" alt="Screenshot 2025-10-03 085551" src="https://github.com/user-attachments/assets/748016ff-f96f-45cb-a574-0f330e4395e5" />
+<img width="1144" height="547" alt="Screenshot 2025-10-03 091820" src="https://github.com/user-attachments/assets/f27a145a-748f-4f6d-8356-01f62abbc51e" />
+
+
+<h4>Result:</h4>
+Thus the Implement Simple Hill Climbing Algorithm is executed and verified succesfully.
+
+
